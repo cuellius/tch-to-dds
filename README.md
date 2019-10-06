@@ -1,4 +1,5 @@
 # tch-to-dds
+```
 It contains:
 
 1) Shitty .tch -> .dds converter (TchToDdsConverter.cpp)
@@ -13,3 +14,4 @@ It contains:
      -h /* shows help */
      -mipmapcount <number> /* set mip map count to number */
      -d <dds-file-as-donor> /* uses this dds file for dds header*/
+```
